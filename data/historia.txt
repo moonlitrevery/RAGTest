@@ -1,0 +1,7 @@
+A história do pão de queijo começa nas fazendas de Minas Gerais, onde sobrava muito queijo e polvilho. Com o tempo, a receita se espalhou pelo Brasil e virou símbolo do café da manhã mineiro.
+
+No século XX, a industrialização trouxe novas formas de conservar e transportar alimentos. O pão de queijo congelado popularizou-se em supermercados, permitindo que pessoas de outras regiões provassem a iguaria com praticidade.
+
+Hoje, o pão de queijo é estudado em aulas de gastronomia e aparece em cardápios internacionais. Cientistas de alimentos analisam textura, expansão no forno e retenção de umidade para aprimorar receitas industriais e artesanais.
+
+Este texto fictício serve apenas como material de leitura para os exercícios de extração, chunking e RAG do curso.
