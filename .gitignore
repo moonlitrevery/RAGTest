@@ -1,0 +1,62 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# --- Virtual environments ---
+.venv/
+venv/
+ENV/
+env/
+
+# --- Secrets (never commit) ---
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# --- Packaging / build ---
+*.egg-info/
+.eggs/
+dist/
+build/
+wheels/
+pip-wheel-metadata/
+
+# --- Test & coverage ---
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# --- Type checkers / linters ---
+.mypy_cache/
+.ruff_cache/
+.dmypy.json
+pyrightconfig.json.bak
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- OS & editors ---
+.DS_Store
+Thumbs.db
+.idea/
+*.swp
+*.swo
+*~
+
+.vscode/
+
+# --- RAG / vector DB (local persistence) ---
+chroma/
+chroma_db/
+*.chroma
+
+# --- ML model caches (if stored inside the repo) ---
+.cache/
+models/
+checkpoints/
